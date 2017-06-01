@@ -6,8 +6,6 @@ module.exports = {
   ],
   "rules": {
     "scss/at-extend-no-missing-placeholder": true,
-    "scss/at-function-pattern": "blocss-.+",
-    "scss/at-mixin-pattern": "blocss-.+",
     "scss/dollar-variable-colon-space-before": "never",
     "scss/partial-no-import": true,
     "scss/selector-no-redundant-nesting-selector": true,
