@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-blocss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Blocss shareable config for stylelint",
   "keywords": [
     "stylelint",
