@@ -1,0 +1,29 @@
+{
+  "name": "stylelint-config-blocss",
+  "version": "1.0.0",
+  "description": "Blocss shareable config for stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "standard",
+    "Blocss"
+  ],
+  "author": "Bram Smulders <bram@bramsmulders.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blocss/stylelint-config-blocss.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "stylelint": "^7.8.0",
+    "stylelint-scss": "^1.4.3"
+  },
+  "peerDependencies": {
+    "stylelint": "^7.8.0",
+    "stylelint-scss": "^1.4.3"
+  }
+}
