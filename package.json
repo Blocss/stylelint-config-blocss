@@ -19,11 +19,9 @@
     "index.js"
   ],
   "devDependencies": {
-    "stylelint": "^7.8.0",
-    "stylelint-scss": "^1.4.3"
+    "stylelint": "^7.8.0"
   },
   "peerDependencies": {
-    "stylelint": "^7.8.0",
-    "stylelint-scss": "^1.4.3"
+    "stylelint": "^7.8.0"
   }
 }

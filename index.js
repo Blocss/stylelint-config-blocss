@@ -1,14 +1,7 @@
 "use strict"
 
 module.exports = {
-  "plugins": [
-    "stylelint-scss"
-  ],
   "rules": {
-    "scss/at-extend-no-missing-placeholder": true,
-    "scss/dollar-variable-colon-space-before": "never",
-    "scss/partial-no-import": true,
-    "scss/selector-no-redundant-nesting-selector": true,
     "at-rule-name-case": "lower",
     "at-rule-name-newline-after": "always-multi-line",
     "at-rule-name-space-after": "always-single-line",
