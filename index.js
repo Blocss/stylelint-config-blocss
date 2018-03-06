@@ -45,7 +45,7 @@ module.exports = {
 
     "declaration-empty-line-before": "never",
 
-    "font-family-name-quotes": "always-where-required",
+    "font-family-name-quotes": "always-where-recommended",
     "function-calc-no-unspaced-operator": true,
 
     "function-comma-newline-after": "never-multi-line",
